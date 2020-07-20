@@ -23,7 +23,6 @@ public class MainActivity extends AppCompatActivity {
 
         textView.setText(String.valueOf(randomInt));
 
-//        String str = " Hello";
-//        textView.text = str;
+
     }
 }
